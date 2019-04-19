@@ -1,0 +1,6 @@
+﻿  1.c
+c:\users\lenovo\source\repos\作业试炼12\作业试炼12\1.c(29): warning C4013: “system”未定义；假设外部返回 int
+  2.c
+c:\users\lenovo\source\repos\作业试炼12\作业试炼12\2.c(8): warning C4013: “system”未定义；假设外部返回 int
+  正在生成代码...
+  作业试炼12.vcxproj -> C:\Users\lenovo\source\repos\作业试炼12\Debug\作业试炼12.exe
