@@ -1,0 +1,3 @@
+﻿  boat.c
+c:\users\lenovo\source\repos\过河问题(贪心)\过河问题(贪心)\boat.c(36): warning C4013: “system”未定义；假设外部返回 int
+  过河问题(贪心).vcxproj -> C:\Users\lenovo\source\repos\过河问题(贪心)\Debug\过河问题(贪心).exe
