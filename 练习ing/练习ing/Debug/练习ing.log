@@ -1,0 +1,7 @@
+﻿  3.c
+c:\users\lenovo\source\repos\练习ing\练习ing\3.c(7): warning C4013: “system”未定义；假设外部返回 int
+  类型转换.c
+c:\users\lenovo\source\repos\练习ing\练习ing\类型转换.c(17): warning C4013: “system”未定义；假设外部返回 int
+c:\users\lenovo\source\repos\练习ing\练习ing\类型转换.c(4): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  练习ing.vcxproj -> C:\Users\lenovo\source\repos\练习ing\Debug\练习ing.exe
